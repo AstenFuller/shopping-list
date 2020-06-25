@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="store_name" table="x_495893_shopping_stores" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vons</label>
+            <language>en</language>
+            <name>x_495893_shopping_stores</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-25 19:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46b50af6db211010ef98f28239961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 19:31:40</sys_updated_on>
+            <value>Vons</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>store_name</element>
+            <name>x_495893_shopping_stores</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-25 19:31:40</sys_created_on>
+            <sys_id>efc5c6f6db211010ef98f2823996190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>store_name</sys_name>
+            <sys_package display_value="Shopping List" source="x_495893_shopping">7ea186f2db211010ef98f2823996193e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">7ea186f2db211010ef98f2823996193e</sys_scope>
+            <sys_update_name>sys_choice_x_495893_shopping_stores_store_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-25 19:31:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">7ea186f2db211010ef98f2823996193e</application>
+        <file_path/>
+        <instance_id>36d695cbdbbddb08ff27d5b0cf96197a</instance_id>
+        <instance_name>dev58188</instance_name>
+        <name>sys_choice_x_495893_shopping_stores_store_name</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="store_name" table="x_495893_shopping_stores" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>store_name</element><hint/><inactive>false</inactive><label>Vons</label><language>en</language><name>x_495893_shopping_stores</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-25 19:31:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>46b50af6db211010ef98f28239961976</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-25 19:31:40</sys_updated_on><value>Vons</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>store_name</element><name>x_495893_shopping_stores</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-25 19:31:40</sys_created_on><sys_id>efc5c6f6db211010ef98f2823996190b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>store_name</sys_name><sys_package display_value="Shopping List" source="x_495893_shopping">7ea186f2db211010ef98f2823996193e</sys_package><sys_policy/><sys_scope display_value="Shopping List">7ea186f2db211010ef98f2823996193e</sys_scope><sys_update_name>sys_choice_x_495893_shopping_stores_store_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-25 19:31:40</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-739494049</payload_hash>
+        <record_name>Stores.Store name</record_name>
+        <reverted_from/>
+        <source>32a186f2db211010ef98f28239961941</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-25 19:31:40</sys_created_on>
+        <sys_id>efc5c6f6db211010ef98f2823996190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ecf6dd270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 19:31:40</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>6bc5c6f658211010a559be1050873e0d</update_guid>
+        <update_guid_history>6bc5c6f658211010a559be1050873e0d:-739494049</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-25 19:34:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>efc5c6f6db211010ef98f2823996190b</sys_id>
+        <sys_metadata>efc5c6f6db211010ef98f2823996190b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name</sys_name>
+        <sys_package display_value="Shopping List" source="x_495893_shopping">7ea186f2db211010ef98f2823996193e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">7ea186f2db211010ef98f2823996193e</sys_scope>
+        <sys_scope_delete display_value="">01dc6a2d713845389b342d86b03c6c24</sys_scope_delete>
+        <sys_update_name>sys_choice_x_495893_shopping_stores_store_name</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_495893_shopping_stores_store_name">efc5c6f6db211010ef98f2823996190d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 19:34:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
